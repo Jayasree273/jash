@@ -12,3 +12,6 @@ bin/
 
 # Logs
 *.log
+
+# Keys
+*.txt
