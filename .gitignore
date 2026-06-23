@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+*.o
+
+# Editor files
+*~
+*.swp
+*.swo
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
